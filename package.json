@@ -1,0 +1,21 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "Manejador de Tableros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "author": "Irio Gómez",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.3",
+    "@material-ui/icons": "^4.9.1",
+    "next": "^9.2.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
